@@ -1,0 +1,54 @@
+.book:hover{
+  color:red;
+  font-style: sans-serif;
+}
+.color{
+color:black;
+}
+.card{
+  height: 75%;
+  widht:45%;
+}
+.w-100{
+  height: 25%;
+  width:20%;
+}
+.new{
+  width:350px;
+  height:250px;
+}
+.text:hover{
+  color:yellow;
+}
+.text1{
+  color:black;
+}
+.image{
+  margin-left:700px;
+}
+.content{
+color:red;
+float:left;
+position: relative;
+}
+.content1{
+  color:black;
+}
+.txt{
+  color:red;
+}
+.text2{
+  color:black;
+}
+.rs{
+  color:black;
+}
+.ts1{
+  color:red;
+}
+.line{
+  width:200%;
+}
+.real{
+  color:black;
+}
